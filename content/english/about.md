@@ -15,13 +15,13 @@ experience:
     # experience item loop
     - name : "Creative Graphic Designer"
       company : "Redgreen Technology LTD"
-      duration : "2021(Present)"
+      duration : "(2021-Present)"
       content : "I work with Adobe Illustrator, and Photoshop to create Design."
 
     # experience item loop
     - name : "Senior Graphic Designer"
       company : "Garphic Design"
-      duration : "2018-2021"
+      duration : "(2018-2021)"
       content : "Graphic Design and Online Photo Editing.."
    
 
