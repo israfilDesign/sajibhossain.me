@@ -31,23 +31,23 @@ skill:
   title : "SKILL"
   skill_list:
     # skill item loop
-    - name : "Web Development"
-      percentage : "98%"
-      
-    # skill item loop
-    - name : "javaScript"
-      percentage : "85%"
-      
-    # skill item loop
-    - name : "Database Management"
+    - name : "Adobe Illustrator"
       percentage : "90%"
       
     # skill item loop
-    - name : "Noode js"
-      percentage : "80%"
+    - name : "Adobe Photoshop"
+      percentage : "85%"
+      
+    # skill item loop
+    - name : "Adobe After Effect"
+      percentage : "60%"
+      
+    # skill item loop
+    - name : "Adobe Premire Pro"
+      percentage : "50%"
 
     # skill item loop
-    - name : "React"
+    - name : "Camtasia"
       percentage : "80%"
 
 # custom style
@@ -56,4 +56,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Sajib, Professional Web Developer. I love to write code, it's my passoin. I am here to help you, i am here to design your web page. i can help you to describe yourself in the best way.<br>No matter how difficult your web page is, i will find an easy way and complete your work anyway. Stay connect with me........😊
+It's Israfil , Professional Graphic Designer. I love to create Design, it's my passoin. I am here to help you, i am here to design your Company. i can help you to describe yourself in the best way.<br>No matter how difficult your Company Profile is, i will find an easy way and complete your Company Profile Design. Stay connect with me........😊
