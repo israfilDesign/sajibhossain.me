@@ -13,16 +13,16 @@ experience:
   title : "EXPERIENCE"
   experience_list:
     # experience item loop
-    - name : "Web Developer"
-      company : "Computer programing club_DIU"
-      duration : "2019"
-      content : "I work with HTML, CSS, and Javascript to create websites and web applications like Personal, Business, Blog, E-comerches etc."
+    - name : "Creative Graphic Designer"
+      company : "Redgreen Technology LTD"
+      duration : "2021(Present)"
+      content : "I work with Adobe Illustrator, and Photoshop to create Design."
 
     # experience item loop
-    - name : "Android app development"
-      company : "BITM"
-      duration : "2018"
-      content : "Here I taken a proffesional course. I learn many things.."
+    - name : "Senior Graphic Designer"
+      company : "Garphic Design"
+      duration : "2018-2021"
+      content : "Graphic Design and Online Photo Editing.."
    
 
 ############################### Skill #################################
