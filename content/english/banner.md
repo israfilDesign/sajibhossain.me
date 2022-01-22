@@ -1,14 +1,14 @@
 ---
-title : "I'm Sajib Hossain"
+title : "I'm Israfil Arif"
 # full screen navigation
-first_name : "Sajib"
-last_name : "Hossain"
+first_name : "Israfil"
+last_name : "Arif"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Web Developer"
-- "Computer Engineer"
-- "Tech Enthusiast"
+- "Graphic Designer"
+- "Animatior Designer"
+- "Gamer"
 
 # slider background image loop
 slider_images:
