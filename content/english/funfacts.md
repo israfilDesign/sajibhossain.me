@@ -23,8 +23,8 @@ funfacts:
   count : "50"
   
 # funfacts item loop
-- name : "Veectezy"
-  image : "images/icons/vecteezy.png"
+- name : "Fiverr"
+  image : "images/icons/Fiverr.png"
   count : "30"
   
 # funfacts item loop
