@@ -29,17 +29,17 @@ funfacts:
   
 # funfacts item loop
 - name : "Creative Febrica"
-  image : "images/icons/coffee.png"
+  image : "images/icons/creativefabrica.png"
   count : "100"
   
 # funfacts item loop
 - name : "Pngtree"
-  image : "images/icons/coffee.png"
+  image : "images/icons/pngtree.png"
   count : "700"
   
 # funfacts item loop
 - name : "Behance"
-  image : "images/icons/coffee.png"
+  image : "images/icons/Behance.png"
   count : "50"
 
 # custom style
