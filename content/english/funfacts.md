@@ -20,27 +20,27 @@ funfacts:
 # funfacts item loop
 - name : "istock"
   image : "images/icons/iStock.png"
-  count : "150"
+  count : "50"
   
 # funfacts item loop
 - name : "Veectezy"
   image : "images/icons/coffee.png"
-  count : "150"
+  count : "30"
   
 # funfacts item loop
 - name : "Creative Febrica"
   image : "images/icons/coffee.png"
-  count : "150"
+  count : "100"
   
 # funfacts item loop
 - name : "Pngtree"
   image : "images/icons/coffee.png"
-  count : "150"
+  count : "700"
   
 # funfacts item loop
 - name : "Behance"
   image : "images/icons/coffee.png"
-  count : "150"
+  count : "50"
 
 # custom style
 custom_class: "" 
