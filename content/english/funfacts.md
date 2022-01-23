@@ -25,7 +25,7 @@ funfacts:
 # funfacts item loop
 - name : "Fiverr"
   image : "images/icons/Fiverr.png"
-  count : "30"
+  count : "150"
   
 # funfacts item loop
 - name : "Creative Febrica"
