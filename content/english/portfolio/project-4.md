@@ -1,6 +1,6 @@
 ---
-title: "Project Title"
-date: 2020-05-12T12:14:34+06:00
+title: "Mascot Logo Design"
+date: 2021-05-12T12:14:34+06:00
 image: "images/portfolio/item4.jpg"
 categories: ["database"]
 description: "This is meta description."
