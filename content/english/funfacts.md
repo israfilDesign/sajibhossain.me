@@ -5,21 +5,21 @@ funfacts:
 # funfacts item loop
 - name : "Adobe Stock"
   image : "images/icons/works.png"
-  count : "100"
+  count : "200"
   
 # funfacts item loop
 - name : "Freepik"
   image : "images/icons/happy.png"
-  count : "200"
+  count : "100"
   
 # funfacts item loop
 - name : "Shutterstock"
   image : "images/icons/Shutterstock.png"
-  count : "250"
+  count : "100"
   
 # funfacts item loop
 - name : "istock"
-  image : "images/icons/coffee.png"
+  image : "images/icons/iStock.png"
   count : "150"
   
 # funfacts item loop
