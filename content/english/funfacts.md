@@ -14,7 +14,7 @@ funfacts:
   
 # funfacts item loop
 - name : "Shutterstock"
-  image : "images/icons/project.png"
+  image : "images/icons/Shutterstock.png"
   count : "250"
   
 # funfacts item loop
