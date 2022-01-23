@@ -21,7 +21,26 @@ funfacts:
 - name : "CUPS OF COFFEE"
   image : "images/icons/coffee.png"
   count : "150"
-
+  
+# funfacts item loop
+- name : "CUPS OF COFFEE"
+  image : "images/icons/coffee.png"
+  count : "150"
+  
+# funfacts item loop
+- name : "CUPS OF COFFEE"
+  image : "images/icons/coffee.png"
+  count : "150"
+  
+# funfacts item loop
+- name : "CUPS OF COFFEE"
+  image : "images/icons/coffee.png"
+  count : "150"
+  
+# funfacts item loop
+- name : "CUPS OF COFFEE"
+  image : "images/icons/coffee.png"
+  count : "150"
 
 # custom style
 custom_class: "" 
