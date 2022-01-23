@@ -89,7 +89,7 @@ icon = "fab fa-instagram"
 link = "https://www.instagram.com/israfil_arif"
 
 [[params.social]]
-icon = "fab fa-github"
+icon = "fab fa-reddit"
 link = "https://github.com/sajib359"
 
 [[params.social]]
