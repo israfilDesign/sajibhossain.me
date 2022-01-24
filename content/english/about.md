@@ -61,4 +61,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-It's Israfil , Professional Graphic Designer. I love to create Design, it's my passoin. I am here to help you, i am here to design your Brand. i can help you to describe yourself in the best way.<br>No matter how difficult your Brand Profile is, i will find an easy way and complete your Brand Profile Design. Stay connect with me........😊
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
