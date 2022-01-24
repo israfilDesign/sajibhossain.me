@@ -21,9 +21,14 @@ experience:
     # experience item loop
     - name : "Senior Graphic Designer"
       company : "Garphic Design"
-      duration : "(2018-2021)"
-      content : "Graphic Design and Online Photo Editing.."
+      duration : "(2019-2021)"
+      content : "Graphic Design and Online Photo Editing."
    
+    # experience item loop
+    - name : "Senior Graphic Designer"
+      company : "Garphic Design"
+      duration : "(2019-2021)"
+      content : "Graphic Design and Online Photo Editing."
 
 ############################### Skill #################################
 skill:
