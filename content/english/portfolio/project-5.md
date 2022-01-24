@@ -1,8 +1,8 @@
 ---
-title: "Project Title"
+title: "T-Shirt Design"
 date: 2020-05-12T12:14:34+06:00
 image: "images/portfolio/item5.jpg"
-categories: ["design","sketch"]
+categories: ["design"]
 description: "This is meta description."
 draft: false
 project_info:
