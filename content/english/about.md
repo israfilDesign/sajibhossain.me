@@ -20,14 +20,14 @@ experience:
 
     # experience item loop
     - name : "Senior Graphic Designer"
-      company : "Garphic Design"
+      company : "Image Retouching Lab"
       duration : "(2019-2021)"
       content : "Graphic Design and Online Photo Editing."
    
     # experience item loop
-    - name : "Senior Graphic Designer"
-      company : "Garphic Design"
-      duration : "(2019-2021)"
+    - name : "Junior Graphic Designer"
+      company : "Graphic Design"
+      duration : "(2018-2019)"
       content : "Graphic Design and Online Photo Editing."
 
 ############################### Skill #################################
