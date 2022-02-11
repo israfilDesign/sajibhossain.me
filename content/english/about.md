@@ -5,7 +5,7 @@ image : "images/backgrounds/portrait.jpg"
 button:
   enable : true
   label : "DOWNLOAD MY CV"
-  link : "https://drive.google.com/file/d/11T4VkDe6LgPCbPh8kf3MTmwMntaHJyKU/view?usp=sharing"
+  link : "https://drive.google.com/file/d/1q68Casv1hYjvlrcM7OEXEQQEgIMLGAjX/view?usp=sharing"
 
 ########################### Experience ##############################
 experience:
@@ -61,4 +61,6 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+I am a professional graphic designer with 4+ years of experience in the design industry. Over the years I worked in a digital agency and my work was on a variety of tasks. As a result, I was able to develop my skills in different directions and was always eager to learn new things.
+
+I have a Govt Certified Graphic Design (Level 3). In my career, I’ve had the pleasure of working in a variety of industries and for clients including photo editors and Contributor Wold Most Microstock Website. I enjoy learning new techniques and styles to suit different types of clients. Consequently, I can offer you a larger range of skills. My skills include proficiency with the Adobe Creative Suite (Adobe Photoshop, Adobe Illustrator, Adobe After Effects, and Adobe Premiere Pro) in addition to my knowledge of social media and web-related tasks.
