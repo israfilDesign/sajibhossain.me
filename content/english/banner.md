@@ -7,8 +7,8 @@ bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
 - "Graphic Designer"
-- "Video Editor"
-- "Gamer"
+- "Motion Graphics Designer"
+- "Video Editing"
 
 # slider background image loop
 slider_images:
