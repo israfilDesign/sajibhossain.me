@@ -5,7 +5,7 @@ image : "images/backgrounds/portrait.jpg"
 button:
   enable : true
   label : "DOWNLOAD MY CV"
-  link : "https://drive.google.com/file/d/1q68Casv1hYjvlrcM7OEXEQQEgIMLGAjX/view?usp=sharing"
+  link : "https://drive.google.com/file/d/1AVtZKzlewPpdQR0FLhjChllRH5EQ0rGY/view?usp=sharing"
 
 ########################### Experience ##############################
 experience:
