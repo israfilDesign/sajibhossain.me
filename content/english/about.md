@@ -26,7 +26,7 @@ experience:
    
     # experience item loop
     - name : "Junior Graphic Designer"
-      company : "Graphic Design"
+      company : "CPH Graphics"
       duration : "(2018-2019)"
       content : "Graphic Design and Online Photo Editing."
 
