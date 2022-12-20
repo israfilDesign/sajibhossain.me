@@ -14,14 +14,14 @@ experience:
   experience_list:
       # experience item loop
     - name : "Creative Graphic Designer"
-      company : "Redgreen Technology LTD"
-      duration : "(2021-Present)"
+      company : "Bio-Xin Cosmeceuticals"
+      duration : "(2022-Present)"
       content : "I work with Adobe Illustrator, and Photoshop to create Design."
       
   # experience item loop
     - name : "Creative Graphic Designer"
       company : "Redgreen Technology LTD"
-      duration : "(2021-Present)"
+      duration : "(2021-2022)"
       content : "I work with Adobe Illustrator, and Photoshop to create Design."
 
     # experience item loop
