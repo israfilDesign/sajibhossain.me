@@ -5,7 +5,7 @@ image : "images/backgrounds/portrait.jpg"
 button:
   enable : true
   label : "DOWNLOAD MY CV"
-  link : "https://drive.google.com/file/d/1AVtZKzlewPpdQR0FLhjChllRH5EQ0rGY/view?usp=sharing"
+  link : "https://drive.google.com/file/d/1hIFqHLYW1qc6qdzfzISjMTk6NiJjbn7h/view?usp=sharing"
 
 ########################### Experience ##############################
 experience:
@@ -58,8 +58,8 @@ skill:
       percentage : "50%"
 
     # skill item loop
-    - name : "Camtasia"
-      percentage : "80%"
+    - name : "Blender"
+      percentage : "50%"
 
 # custom style
 custom_class: "" 
@@ -67,6 +67,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-I am a professional graphic designer with 4+ years of experience in the design industry. Over the years I worked in a digital agency and my work was on a variety of tasks. As a result, I was able to develop my skills in different directions and was always eager to learn new things.
-
-I have a Govt Certified Graphic Design (Level 3). In my career, I’ve had the pleasure of working in a variety of industries and for clients including photo editors and Contributor Wold Most Microstock Website. I enjoy learning new techniques and styles to suit different types of clients. Consequently, I can offer you a larger range of skills. My skills include proficiency with the Adobe Creative Suite (Adobe Photoshop, Adobe Illustrator, Adobe After Effects, and Adobe Premiere Pro) in addition to my knowledge of social media and web-related tasks.
+I am to express my interest in the graphic designer position. With over 4 years of experience in the design industry, I have honed my skills in various design tasks, including motion graphics and video editing. I hold a Government-certified Graphic Design Level 3 certification and have extensive experience with the Adobe Creative Suite, including Photoshop, Illustrator, After Effects, and Premiere Pro. My previous roles at Bio-Xin Cosmeceuticals, Redgreen Technology LTD, and Image Retouching Lab have equipped me with a diverse skill set, making me well-suited to handle a wide range of design projects. I am confident that my expertise and creativity will make a valuable contribution.
