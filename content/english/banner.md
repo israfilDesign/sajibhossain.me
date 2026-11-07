@@ -6,9 +6,9 @@ last_name : "Arif"
 bg_image : "images/backgrounds/full-nav-bg.jpg"
 # animated text loop
 occupations:
-- "Graphic Designer"
-- "Motion Graphics Designer"
-- "Video Editing"
+- "Creative Graphic Designer"
+- "Brand & Product Visuals"
+- "AI Image & Video Generation"
 
 # slider background image loop
 slider_images:
