@@ -67,13 +67,4 @@ custom_attributes: ""
 custom_css: ""
 ---
 
-I am a creative visual professional with over 6 years of experience in the graphic design industry, specializing in brand visuals, product advertising, and AI-powered creative content. I hold a Government-certified Graphic Design Level 3 certification and have strong expertise in Adobe Creative Suite, particularly Photoshop and Illustrator.
-
-My expertise includes creating engaging social media designs, product advertisements, digital marketing creatives, AI-generated images, and AI-generated videos. I combine traditional design principles with emerging AI technologies to develop innovative and impactful visual content for brands.
-
-Throughout my professional journey at Bio-Xin Cosmeceuticals, Redgreen Technology LTD, and Image Retouching Lab, I have developed a versatile skill set and a strong understanding of brand communication and visual storytelling.
-
-I am passionate about exploring new creative technologies and transforming ideas into compelling visual experiences that help brands stand out.
-My expertise includes creating engaging social media designs, product advertisements, digital marketing creatives, AI-generated images, and AI-generated videos. I combine traditional design principles with emerging AI technologies to develop innovative and impactful visual content for brands.
-Throughout my professional journey at Bio-Xin Cosmeceuticals, Redgreen Technology LTD, and Image Retouching Lab, I have developed a versatile skill set and a strong understanding of brand communication and visual storytelling.
-I am passionate about exploring new creative technologies and transforming ideas into compelling visual experiences that help brands stand out.
+I am a creative visual professional with 6+ years of experience in graphic design and AI-powered content creation. I specialize in brand visuals, product advertising, social media creatives, and AI-generated images and videos. With a Government-certified Graphic Design Level 3 certification and experience at Bio-Xin Cosmeceuticals, Redgreen Technology LTD, and Image Retouching Lab, I combine creative thinking and modern AI tools to deliver impactful visual solutions.
